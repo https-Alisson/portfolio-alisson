@@ -48,7 +48,7 @@
   nav a {
     text-decoration: none;
     color: #fff;
-    background-color: #0fff07;
+    background-color: red;
     padding: 10px 20px;
     border-radius: 20px;
     transition: background 0.3s;
